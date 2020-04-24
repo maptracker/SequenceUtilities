@@ -62,11 +62,15 @@ raw" and Excel workbook reports.
 The system would also function as a web service, and supported TSV,
 XML and JSON result formats.
 
+FriendlyBlast was later extended to include support for
+[IgBlast][IgBlast], including another "colorized raw" format and an
+Excel report. These searches were popular with colleagues designing
+our antibody-based therapies.
+
 _I managed to leave BMS without a screenshot for Friendly Blast ..._
 
 * [BMS Public Disclosure approval](PubD-Disclosure-Approval.md)
 
-
 [AlignThis]: img/AlignThis.png
 [GenomicSim4]: img/GenomicSim4.png
-
+[IgBlast]: https://www.ncbi.nlm.nih.gov/igblast/
