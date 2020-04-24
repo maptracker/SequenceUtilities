@@ -1,0 +1,23 @@
+# History files
+.Rhistory
+.RData
+.Rapp.history
+
+# Example code in package build process
+*-Ex.R
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+.Rproj.user
+
+# Various IDE temp files
+*~
+*#
+.#*
+
+# Stupid mac droppings
+.DS_Store
